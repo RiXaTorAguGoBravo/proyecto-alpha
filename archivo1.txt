@@ -1,3 +1,3 @@
 Mi primer commit.
 
-Segundo commit.
+Segundo commit. Corrección del Segundo commit.
