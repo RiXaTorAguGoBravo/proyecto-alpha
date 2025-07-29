@@ -1,5 +1,5 @@
 Mi primer commit.
 
-Segundo commit.
+Segundo commit. Corrección del Segundo commit. Segunda correción de Segundo commit.
 
 Tercer commit.
